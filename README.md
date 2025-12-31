@@ -1,4 +1,4 @@
-# Hi 👋 I’m Jisha Rajala
+# Hi 👋 I’m Jisha
 
 I am a Computer Science student focused on **machine learning from first principles**, with a specific research interest in **reasoning capabilities, mathematical logic, and transformer interpretability**.
 
